@@ -1,2 +1,2 @@
-# E2Ditness
+# E2D Fitness
 Gym Website
